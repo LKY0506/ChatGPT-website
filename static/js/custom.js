@@ -160,7 +160,7 @@ $(document).ready(function() {
     
     // 保存api key与对话数据
     let data = {
-      "apiKey" : "", // 这里填写固定 apiKey
+      "apiKey" : "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", // 这里填写固定 apiKey
     }
    
     // 判断是否使用自己的api key
